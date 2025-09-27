@@ -4,7 +4,7 @@ import json
 
 API_URL = "https://backend-review-fast-api-finale.onrender.com"
 HEADERS = {
-    "X-API-KEY": "secret123",
+    "x-api-key": "secret123",
     "Content-Type": "application/json"
 }
 
