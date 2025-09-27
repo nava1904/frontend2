@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import pandas as pd
 
-API_URL = "https://backend-review-fast-api-2.onrender.com"
+API_URL = "https://backend-review-fast-api-finale.onrender.com"
 HEADERS = {
     "X-API-KEY": "secret123",
     "Content-Type": "application/json"
