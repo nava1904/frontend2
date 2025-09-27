@@ -3,7 +3,7 @@ import requests
 
 API_URL = "https://backend-review-fast-api-finale.onrender.com"
 HEADERS = {
-    "x_api_key": "secret123",
+    "x-api-key": "secret123",
     "Content-Type": "application/json"
 }
 
