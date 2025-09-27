@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import json
 
-API_URL = "https://backend-review-fast-api-finale.onrender.com"
+API_URL = "https://backend-review-fast-api-2.onrender.com"
 HEADERS = {
     "x-api-key": "secret123",
     "Content-Type": "application/json"
